@@ -8,8 +8,8 @@ I am a junior Java backend developer with a solid understanding of Java SE and a
 
 * 🌍  I'm based in Novosibirsk
 * 🖥️  See my portfolio at [This portfolio consists of educational projects.](http://github.com/sergeycherkasovv)
-* ✉️  You can contact me at [iamcherkasov.job@gmail.com](mailto:iamcherkasov.job@gmail.com)
-* 🧠  I'm learning I’m currently learning the Spring Boot.
+* ✉️   You can contact me at [iamcherkasov.job@gmail.com](mailto:iamcherkasov.job@gmail.com)
+* 🧠  I’m currently learning the Spring Boot.
 
 ### Skills
 
