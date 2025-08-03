@@ -1,17 +1,23 @@
-Hi 👋 My name is Sergey
+Привет, я Сергей
 =======================
 
-Junior Java-Developer
+Junior Java Developer | Spring Boot | REST API | SQL | Linux
 ---------------------
 
-I am a junior Java backend developer with a solid understanding of Java SE and a strong drive for continuous growth. I have experience working with PostgreSQL, JUnit 5, Git (GitHub), CI/CD (GitHub Actions), and Gradle. I can design and develop server-side applications, automate testing, and set up deployment processes. I am eager to improve my skills and explore new technologies. Open to long-term collaboration and teamwork.
+Закончил курсы Java-разработчика. В процессе обучения освоил: Java SE, реализовал 5 проектов в том числе с использованием [Spring Boot](https://github.com/sergeycherkasovv/task-managet) и [Javalin](https://github.com/sergeycherkasovv/page-analyzer).
+Работал с базами данных PostgreSQL, используя как `JpaRepository`, так и `JDBC`. Писал юнит- и интеграционные тесты с JUnit 5 и MockWebServer. Настраивал REST-эндпоинты, собирал проекты на Gradle, подключал зависимости и настраивал CI/CD с GitHub Actions и SonarQube.
 
-* 🌍  I'm based in Novosibirsk
-* 🖥️  See my portfolio at [This portfolio consists of educational projects.](http://github.com/sergeycherkasovv)
-* ✉️   You can contact me at [iamcherkasov.job@gmail.com](mailto:iamcherkasov.job@gmail.com)
-* 🧠  I’m currently learning the Spring Boot.
+Сейчас:
+- Разработал собственный [пет-проект](https://github.com/sergeycherkasovv/github-analysis-profiles), Telegram-bot который показывает небольшую статистику GitHub-профиля по username.                  Бот: https://t.me/GithubAnalysisBot
+- углубляю знания в многопоточности, асинхронности, SQL, Spring Boot.
 
-### Skills
+
+✉️ Связь:
+- Email: iamcherkasov.job@gmail.com
+- Telegram: https://t.me/iamcherkasov
+                    
+
+### Скилы
 
 <p align="left">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
