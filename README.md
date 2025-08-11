@@ -10,6 +10,7 @@ Junior Java Developer | Spring Boot | REST API | SQL | Linux
 Сейчас:
 - Разработал собственный [пет-проект](https://github.com/sergeycherkasovv/github-analysis-profiles), Telegram-bot который показывает небольшую статистику GitHub-профиля по username.                  Бот: https://t.me/GithubAnalysisBot
 - углубляю знания в многопоточности, асинхронности, SQL, Spring Boot.
+- [Сертификаты](https://github.com/sergeycherkasovv/sergeycherkasovv/tree/main/certificates)
 
 
 ✉️ Связь:
